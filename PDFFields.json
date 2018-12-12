@@ -1,0 +1,33 @@
+{
+   "file_name": "TestFileOne.pdf",
+   "documents": [
+      {
+		"pdf_type": "Hazmat",
+         "pagemap": {
+            "fields": [
+               {
+                  "NMFC": "AAA",
+                  "TPCents": "BBB",
+                  "Adv": "CCC",
+                  "DocIden": "DDD",
+                  "TypeCargo": "EEE"
+               }
+            ]
+         }
+      },
+      {
+		"pdf_type": "Precious Metals",
+         "pagemap": {
+            "fields": [
+               {
+                  "NMFC": "111",
+                  "TPCents": "222",
+                  "Adv": "333",
+                  "DocIden": "444",
+                  "TypeCargo": "555"
+               }
+            ]
+         }
+      }
+   ]
+}
